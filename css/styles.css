@@ -190,7 +190,7 @@ padding-bottom: 120px;
   gap: 24px;
 }
 .meny-title{
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - 48px)/3);
 }
 /**
   |============================
