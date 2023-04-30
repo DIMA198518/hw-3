@@ -146,8 +146,16 @@ align-items: center;
 */
 .section-two {
   background-color: var(--color-grey);
+  padding: 120px 0;
 }
+.meny-list{
+  display: flex;
+  gap: 24px;
+}
+.meny-title{
+  width: calc((100%-72px)/4);
 
+}
 .desc {
   color: var(--color-slate);
 }
@@ -157,6 +165,7 @@ align-items: center;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue-modal);
+  margin-bottom: 8px;
 }
 
 /**
