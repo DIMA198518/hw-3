@@ -67,13 +67,12 @@ align-items: center;
   display: flex;
   gap: 40px;
 }
-.meny-list {
+.menu-list {
   display: flex; 
   gap: 40px;
 }
 .link-one {
-  font-weight: 500;
-  padding: 24px;
+  padding: 24px 0;
 }
 .meny-title {
   
