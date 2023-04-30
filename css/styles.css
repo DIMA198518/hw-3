@@ -36,6 +36,18 @@ body {
   | Header section
   |============================
 */
+.header{
+  border-bottom: 1px solid #e7e9fc;
+}
+.conteiner{
+display: flex;
+width: 1158px;
+padding: 0 15px;
+}
+.nav{
+display: flex;
+align-items: center;
+}
 
 .logotype {
   font-family: "Raleway", sans-serif;
@@ -45,15 +57,19 @@ body {
   line-height: 1.17;
   text-transform: uppercase;
   color: var(--color-iris);
+  margin-right: 76px;
 }
 .studio {
   color: var(--color-grey);
 }
 
 .meny-list {
+  display: flex;
+  gap: 40px;
 }
 .link-one {
   font-weight: 500;
+  padding: 24px;
 }
 .meny-title {
 }
@@ -65,12 +81,14 @@ body {
   color: var(--color-ocean);
 }
 
-.adres {
-  font-style: normal;
+.address {
+  
 }
 .contact {
   color: var(--color-slate);
   text-decoration: none;
+  display: flex;
+  gap: 40px;
 }
 .contact:hover,
 .contact:focus {
