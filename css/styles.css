@@ -65,14 +65,15 @@ align-items: center;
 }
 
 .meny-list {
-  display: flex;
-  gap: 40px;
+  
 }
 .link-one {
   font-weight: 500;
   padding: 24px;
 }
 .meny-title {
+  display: flex; 
+  gap: 40px;
 }
 .link-one {
   color: var(--color-grey);
