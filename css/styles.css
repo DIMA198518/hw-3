@@ -63,7 +63,10 @@ align-items: center;
 .studio {
   color: var(--color-grey);
 }
-
+.list-adres{
+  display: flex;
+  gap: 40px;
+}
 .meny-list {
   display: flex; 
   gap: 40px;
@@ -75,10 +78,7 @@ align-items: center;
 .meny-title {
   
 }
-.meny-list{
-  display: flex;
-  gap: 40px;
-}
+
 .link-one {
   color: var(--color-grey);
 }
