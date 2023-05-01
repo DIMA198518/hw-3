@@ -74,8 +74,6 @@ align-items: center;
 
 .link-one {
   padding: 24px 0;
-  display: flex; 
-  gap: 40px;
 }
 
 .link-one {
@@ -153,6 +151,8 @@ align-items: center;
 }
 .meny-list{
   display: flex;
+}
+.meny-list{
   gap: 24px;
 }
 .meny-title{
