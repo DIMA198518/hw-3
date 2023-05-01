@@ -71,6 +71,10 @@ align-items: center;
   display: flex; 
   gap: 40px;
 }
+.meny-title{
+  display: flex; 
+  gap: 40px;
+}
 .link-one {
   padding: 24px 0;
 }
