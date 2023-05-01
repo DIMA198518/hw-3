@@ -152,7 +152,7 @@ align-items: center;
 .meny-list{
   display: flex;
 }
-.meny-list{
+.meny-title{
   gap: 24px;
 }
 .meny-title{
