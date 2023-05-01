@@ -52,6 +52,7 @@ margin: 0 auto;
 .header-nav{
 display: flex;
 align-items: center;
+gap: 40px;
 }
 
 .logotype {
@@ -73,7 +74,7 @@ align-items: center;
 }
 .menu-list {
   display: flex;
-  gap: 40px;
+  
   } 
 
 
