@@ -355,6 +355,14 @@ padding: 96px 0 120px;
   column-gap: 24px;
   row-gap: 48px;
 }
+.list-mai{
+  width: calc((100%-48px)/3);
+}
+.tit{
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
 
 .title-main {
   font-weight: 500;
@@ -371,11 +379,7 @@ padding: 96px 0 120px;
   letter-spacing: 0.02em;
   color: var(--color-slate);
 }
-.tit{
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-}
+
 /**
   |============================
   | futer-portfolio
