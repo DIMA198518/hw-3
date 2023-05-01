@@ -73,11 +73,9 @@ align-items: center;
 }
 .menu-list {
   display: flex;
- } 
- .list{
   gap: 40px;
- }
-
+ } 
+ 
 
 .link-one {
   padding: 24px 0;
