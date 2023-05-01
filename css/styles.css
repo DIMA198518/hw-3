@@ -72,9 +72,12 @@ align-items: center;
   gap: 40px;
 }
 .menu-list {
-  display: flex; gap: 40px;
-  
-}
+  display: flex;
+ } 
+ .meny-title{
+  gap: 40px;
+ }
+
 
 .link-one {
   padding: 24px 0;
