@@ -44,7 +44,7 @@ img{
   border-bottom: 1px solid #e7e9fc;
 }
 .container{
-display: flex;
+  display: flex;
 width: 1158px;
 padding: 0 15px;
 margin: 0 auto;
@@ -269,10 +269,11 @@ padding-bottom: 120px;
   text-transform: uppercase;
   background-color: var(--color-navy-blue);
   color: var(--color-iris);
+}
+.futer-logo{
   display: inline-block;
   margin-bottom: 16px;
 }
-
 .stu-dio {
   color: var(--color-cloud);
 }
@@ -285,6 +286,11 @@ padding-bottom: 120px;
   | portfolio header
   |============================
 */
+.container{
+  width: 1158px;
+  margin: 0;
+  padding: 0 15px;
+}
 .port-header{
   border-bottom: 1px solid #e7e9fc;
 }
@@ -293,10 +299,11 @@ padding-bottom: 120px;
   color: var(--color-iris);
 }
 .nav{
-
+display: flex;
+align-items: center;
 }
 .menu-list{
-  
+
 }
 .link {
   text-decoration: none;
