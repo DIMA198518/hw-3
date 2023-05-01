@@ -73,9 +73,13 @@ align-items: center;
 }
 .menu-list {
   display: flex;
-  
- } 
-
+  } 
+ .meny-title{
+margin-right: 40px;
+ }
+.otp{
+margin-right: 0;
+}
 
 .link-one {
   padding: 24px 0;
