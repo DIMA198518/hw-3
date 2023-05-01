@@ -52,7 +52,6 @@ margin: 0 auto;
 .header-nav{
 display: flex;
 align-items: center;
-gap: 40px;
 }
 
 .logotype {
@@ -68,14 +67,16 @@ gap: 40px;
 .studio {
   color: var(--color-grey);
 }
+.menu-list {
+  display: flex;
+  gap: 40px; 
+ }  
+  
 .list-adres{
   display: flex;
   gap: 40px;
 }
-.menu-list {
-  display: flex;
-  
-  } 
+
 
 
 .link-one {
