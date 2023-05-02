@@ -335,16 +335,18 @@ gap: 40px;
 .section{
 padding: 96px 0 120px;
 }
-.container{
+
+  .menu-list{
 display: flex;
-justify-content: center;
 gap: 24px; 
 margin-bottom: 72px;
 }
-  .menu-list{
-
+.meny-title{
+  padding: 12px 24px;
+  border: 1px solid var(--color-cornflower);
+  border: 1px solid transparent;
+  border-radius: 4px;
 }
-
 .btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
