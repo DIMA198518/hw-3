@@ -175,6 +175,7 @@ align-items: center;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue-modal);
   margin-bottom: 8px;
+  text-align: center;
 }
 
 /**
@@ -199,7 +200,15 @@ align-items: center;
 .menu-list{
    display: flex;
  } 
+ .menu-list{
+  display: flex;
+  gap: 24px;
+}
 
+.menu-title{
+  width: calc((100%-48px)/3);
+
+}
   
  
   
