@@ -335,7 +335,13 @@ gap: 40px;
 .section{
 padding: 96px 0 120px;
 }
-.menu-list{
+.container{
+display: flex;
+justify-content: center;
+gap: 24px; 
+margin-bottom: 72px;
+}
+  .menu-list{
 
 }
 
