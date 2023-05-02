@@ -276,17 +276,18 @@ align-items: center;
   text-transform: uppercase;
   background-color: var(--color-navy-blue);
   color: var(--color-iris);
-}
-.futer-logo{
-  display: inline-block;
+display: inline-block;
   margin-bottom: 16px;
 }
-.stu-dio {
+
+  .stu-dio {
   color: var(--color-cloud);
 }
 .desc-fute {
   color: var(--color-cloud);
   }
+
+
 
 /**
   |============================
