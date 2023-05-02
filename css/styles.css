@@ -199,17 +199,11 @@ align-items: center;
 }
 .menu-list{
    display: flex;
+   gap: 24px; 
  } 
- .menu-list{
-  display: flex;
-  gap: 24px;
+.meny-title{
+  width: calc((100%-48)/3);
 }
-
-.menu-title{
-  width: calc((100%-48px)/3);
-
-}
-  
  
   
 
