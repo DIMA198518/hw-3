@@ -182,9 +182,11 @@ align-items: center;
   | section-3
   |============================
 */
-.section-three{
-padding-bottom: 120px;
+.container{
+ padding-bottom: 120px; 
+ 
 }
+.
 .title-thre {
   font-size: 36px;
   line-height: 1.11;
