@@ -67,7 +67,7 @@ align-items: center;
 .studio {
   color: var(--color-grey);
 }
-.menu-list {
+.meny-header {
   display: flex;
   gap: 40px; 
  }  
@@ -110,7 +110,7 @@ align-items: center;
   background-color: var(--color-navy-blue);
   padding: 188px 0;
 }
-.mein-title {
+.mein-title-one {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -156,19 +156,19 @@ align-items: center;
   background-color: var(--color-grey);
   padding: 120px 0;
 }
-.meny-list{
+.meny-list-sec-two{
   display: flex;
   gap: 24px;
 }
 
-.meny-title{
+.meny-two{
   width: calc((100%-72px)/4);
 
 }
 .desc {
   color: var(--color-slate);
 }
-.title {
+.title-sec-two {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -197,11 +197,11 @@ align-items: center;
   color: var(--color-navy-blue-modal);
   margin-bottom: 72px;
 }
-.menu-list{
+.menu-sec-thre{
    display: flex;
    gap: 24px; 
  } 
-.meny-title{
+.meny-thre{
   width: calc((100%-48)/3);
 }
  
@@ -218,7 +218,7 @@ align-items: center;
   background-color: var(--color-cloud);
   padding: 120px 0;
 }
-.title-four-one {
+.title-four {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -228,10 +228,10 @@ align-items: center;
   color: var(--color-navy-blue-modal);
   margin-bottom: 72px;
 }
-.meny-list {
+.meny-sec-four {
   background-color: var(--color-white);
  }
-.meny-title {
+.meny-four {
   background-color: var(--color-white);
   border-radius: 0px 0px 4px 4px;
 }
@@ -248,7 +248,7 @@ align-items: center;
 
 }
 
-.tit{
+.tit-four{
   padding: 32px 16px;
 }
 .desc {
@@ -261,7 +261,7 @@ align-items: center;
   | futer section
   |============================
 */
-.futer {
+.futer-one {
   background-color: var(--color-navy-blue);
   color: var(--color-cloud);
   padding: 100px 0;
@@ -283,7 +283,7 @@ display: inline-block;
   .stu-dio {
   color: var(--color-cloud);
 }
-.desc-fute {
+.desc-futer {
   color: var(--color-cloud);
   }
 
@@ -291,7 +291,7 @@ display: inline-block;
 
 /**
   |============================
-  | portfolio header
+  | portfolio-header
   |============================
 */
 .container{
@@ -306,11 +306,11 @@ display: inline-block;
   font-weight: 800;
   color: var(--color-iris);
 }
-.nav{
+.nav-portfolio{
 display: flex;
 align-items: center;
 }
-.menu-list{
+.meny-port-header{
   display: flex;
 gap: 40px; 
 }
@@ -320,7 +320,7 @@ gap: 40px;
 .studio {
   color: var(--color-navy-blue);
 }
-.address {
+.address-header {
   font-style: normal;
 }
 .contact {
@@ -336,7 +336,7 @@ gap: 40px;
 padding: 96px 0 120px;
 }
 
-  .menu-list{
+  .menu-list-main{
 display: flex;
 gap: 24px; 
 margin-bottom: 72px;
@@ -348,7 +348,7 @@ justify-content: center;
   column: gap 24px; 
 row-gap: 48px;
 }
-.list-main{
+.meny-list-main{
 width: calc((100%-48px)/3);
 }
 .cont{
@@ -389,7 +389,7 @@ border-top: none;
   color: var(--color-white);
   background-color: var(--color-ocean);
 }
-.list {
+.list-main-two {
   list-style: none;
 
 }
@@ -403,7 +403,7 @@ border-top: none;
   color: var(--color-grey);
  
 }
-.desc-app {
+.desc-main {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -415,7 +415,7 @@ border-top: none;
   | futer-portfolio
   |============================
 */
-.footer {
+.footer-portfolio {
   background-color: var(--color-navy-blue);
   color: var(--color-cloud);
 }
