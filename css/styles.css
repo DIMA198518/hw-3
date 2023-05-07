@@ -238,7 +238,10 @@ gap: 40px;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--color-navy-blue-modal);
-  margin-bottom: 72px;
+ margin-bottom: 8px;
+}
+.title-four-one{
+   margin-bottom: 72px;
 }
 .meny-sec-four {
   background-color: var(--color-white);
