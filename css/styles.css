@@ -71,10 +71,12 @@ align-items: center;
   display: flex;
   gap: 40px; 
  }  
-  
+.meny-list{
+  gap: 40px; 
+}
 .list-adres{
   display: flex;
-  gap: 40px;
+gap: 40px; 
 }
 
 
