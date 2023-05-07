@@ -254,20 +254,18 @@ gap: 40px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue-modal);
-
   text-align: center;
   margin-bottom: 8px;
-
 }
 
-.tit-four{
-  padding: 32px 16px;
-}
-.desc {
+.desc-four{
   font-size: 16px;
   color: var(--color-slate);
   text-align: center;
 }
+
+
+
 /**
   |============================
   | futer section
