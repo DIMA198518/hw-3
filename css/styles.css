@@ -308,6 +308,7 @@ display: inline-block;
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
+  display: flex;
 }
 .port-header{
   border-bottom: 1px solid #e7e9fc;
@@ -322,7 +323,7 @@ align-items: center;
 }
 .meny-port-header{
   display: flex;
-
+  gap: 40px; 
 }
 .link {
   text-decoration: none;
@@ -336,6 +337,12 @@ align-items: center;
 .contact {
   color: var(--color-slate);
   text-decoration: none;
+  
+}
+.meny-head-two{
+  display: flex;
+  gap: 40px; 
+  text-align: left;
 }
 /**
   |============================
