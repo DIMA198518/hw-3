@@ -209,7 +209,7 @@ gap: 40px;
   color: var(--color-navy-blue-modal);
   margin-bottom: 72px;
 }
-.menu-sec-thre{
+.meny-sec-thre{
    display: flex;
    gap: 24px; 
  } 
@@ -286,10 +286,11 @@ gap: 40px;
   text-transform: uppercase;
   background-color: var(--color-navy-blue);
   color: var(--color-iris);
-display: inline-block;
-  margin-bottom: 16px;
+  }
+.futer-logo{
+ display:inline-block;
+ margin-bottom: 16px;
 }
-
   .stu-dio {
   color: var(--color-cloud);
 }
@@ -342,7 +343,7 @@ align-items: center;
 .meny-head-two{
   display: flex;
   gap: 40px; 
-  text-align: left;
+  
 }
 /**
   |============================
