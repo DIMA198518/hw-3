@@ -407,7 +407,7 @@ row-gap: 48px;
 
 }
 .meny-main-two{
-  
+  flex-basis:calc((100% - 48 ) / 3);
 }
 .cont{
   padding: 32px 16px;
